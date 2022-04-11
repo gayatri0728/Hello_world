@@ -1,0 +1,4 @@
+l="gayatri"
+count=0
+for i in range(len(l)):
+    print(i)
